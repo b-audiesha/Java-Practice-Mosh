@@ -13,3 +13,19 @@ public class ForLoops {
 //1) initialize the loop with i = 0
 //2) is this condition true ex: i < 5, if it is true because here i = 0 execute code
 //3) if you add "+ i  it will concat Hello World i    i=number
+
+//Loop 1 Output
+
+//Hello World 1
+//Hello World 2
+//Hello World 3
+//Hello World 4
+//Hello World 5
+
+
+//Loop 2 output
+//Hello World Reverse Order 5
+//Hello World Reverse Order 4
+//Hello World Reverse Order 3
+//Hello World Reverse Order 2
+//Hello World Reverse Order 1
