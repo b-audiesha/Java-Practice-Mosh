@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class WhileLoops {
+public class DoWhile {
   public static void main(String[] args) {
     String input = " ";
     while (!input.equals("quit")) {
@@ -9,7 +8,10 @@ public class WhileLoops {
         input = scanner.next().toLowerCase(); //because we dont know if the user is going to input lower cases or upper cases.
         System.out.println(input);
       }
+//      do {
+//        System.out.println("Input: ");
+//        input = scanner.next().toLowerCase();
+//        System.out.println(input);
+//      } while (!input.equals("quit"));
     }}}
 
-// using a for loop if you know how many times you want to repeat something, use a while loop if your not sure how many times you are going to enter something.
-//create scanner outside of the while loop
