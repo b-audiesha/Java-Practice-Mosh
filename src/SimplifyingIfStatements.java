@@ -6,13 +6,13 @@ public class SimplifyingIfStatements {
   }
 
   // This is before refactor  -->
-  //    int income = 120_000;
-//    boolean hasHighIncome;
-//    if (income > 100_000)
-//      hasHighIncome = true;
-//      else
-//        hasHighIncome = false;
-//    }
+//int income = 120_000;
+// boolean hasHighIncome;
+//if (income > 100_000)
+//hasHighIncome = true;
+//else
+//hasHighIncome = false;
+//   }
 
 
 
